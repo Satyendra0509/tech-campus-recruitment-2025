@@ -35,4 +35,6 @@ We selected the **line-by-line processing method** because:
    ```
    output/output_YYYY-MM-DD.txt
    ```
+   ![image](https://github.com/user-attachments/assets/3c7f3fe9-c297-44ca-aaff-1398f2ba5c7b)
+
 
