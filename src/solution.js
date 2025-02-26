@@ -35,7 +35,7 @@ async function extractLogsForDate(logFilePath, targetDate) {
     }
 
     writeStream.end();
-    console.log(`✅ Extraction complete! ${matchedLogs} logs saved in: ${outputFilePath}`);
+    console.log(`Extraction complete! ${matchedLogs} logs saved in: ${outputFilePath}`);
 }
 
 // Check command-line arguments
